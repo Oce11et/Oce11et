@@ -1,4 +1,10 @@
-### Hi there 👋
+# ¡Hola! Soy Ocedev 👋
+
+¡Bienvenido a mi rincón de desarrollo en GitHub! Soy un apasionado programador que está dando sus primeros pasos en el fascinante mundo de la programación.
+
+## Sobre mí
+
+- 🌱 Actualmente estoy aprendiendo JavaScript, React, NodeJS, GraphQL, TypeScript, React Native, Phyton, ... 
 
 <!--
 **Oce11et/Oce11et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
